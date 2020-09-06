@@ -25,7 +25,7 @@ url                      : "https://kimmusic.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  "kimmusic/kimmusic.github.io"
 teaser                   : "/assets/images/joguri.png"
-logo                     :  "/assets/images/joguri.png"
+logo                     :  "/assets/images/teaser.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "KIM MUSIC"
+  name             : "KIMMUSIC"
   avatar           : "/assets/images/joguri.jpg"
   bio              : "아직은 초보입니다. 훗날은 어떨까요"
   location         : "South Korea"
@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "hwa3060@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "kimmusic/kimmusic.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
