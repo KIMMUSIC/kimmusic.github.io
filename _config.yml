@@ -278,9 +278,11 @@ defaults:
       comments:  true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   - scope:
       path: ""
       type: docs
-    values":
+    values:
       sidebar:
         nav: "docs"
