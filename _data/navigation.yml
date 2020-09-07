@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "블로그 방문하기"
-    url: https://kimmusic.github.io
+    url: https://kimmusic.github.io/about
   - title: "About"
-    url: /aoubt/
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
