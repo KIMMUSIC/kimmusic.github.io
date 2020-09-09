@@ -1,19 +1,21 @@
 # main links
 main:
-  - title: "블로그 방문하기"
-    url: https://kimmusic.github.io/about
-  - title: "About"
-    url: /about/
-  - title: "Categories"
-    url: /categories/
+  - title: "PS"
+    url: https://kimmusic.github.io/ps
+  - title: "ALGORITHM"
+    url: /algorithm/
+  - title: "기타"
+    url: /sub/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
 docs:
-  - title: "Algorithm"
+  - title: "PS"
     children:
       - title: "BOJ"
-        url: /categories/
+        url: /boj/
       - title: "Codeforces"
-        url: /about/
+        url: /codeforces/
+  - title: "ALGORITHM"
+

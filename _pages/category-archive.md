@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
+title: "PS"
 layout: categories
-permalink: /categories/
+permalink: /ps/
 author_profile: true
 sidebar:
   nav: "docs"

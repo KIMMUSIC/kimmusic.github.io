@@ -1,11 +1,10 @@
 ---
-title: "윤동주 작품집"
-permalink: /categories/윤동주/
+title: "ALGORITHM"
+permalink: /algorithm/
 layout: category
 author_profile: true
-taxonomy: 윤동주
 sidebar:
   nav: "docs"
 ---
 
-좋아하는 윤동주 시인의 작품 모음입니다.
+

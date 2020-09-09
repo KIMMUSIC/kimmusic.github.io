@@ -25,7 +25,7 @@ url                      : "https://kimmusic.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  "kimmusic/kimmusic.github.io"
 teaser                   : "/assets/images/teaser.png"
-logo                     :  "/assets/images/teaser.png"
+logo                     :  "/assets/images/yenyul.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/joguri.jpg"
   bio              : "아직은 초보입니다. 훗날은 어떨까요"
   location         : "South Korea"
-  email            :
+  email            : "hwa3060@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
