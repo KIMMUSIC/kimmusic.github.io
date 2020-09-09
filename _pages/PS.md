@@ -1,6 +1,6 @@
 ---
 title: "PS"
-layout: categories
+layout: category
 permalink: /ps/
 author_profile: true
 sidebar:
