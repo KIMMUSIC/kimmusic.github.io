@@ -1,0 +1,21 @@
+# main links
+main:
+  - title: "PS"
+    url: https://kimmusic.github.io/ps
+  - title: "ALGORITHM"
+    url: /algorithm/
+  - title: "기타"
+    url: /sub/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+docs:
+  - title: "PS"
+    children:
+      - title: "BOJ"
+        url: /boj/
+      - title: "Codeforces"
+        url: /codeforces/
+  - title: "ALGORITHM"
+
