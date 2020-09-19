@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://kimmusic/kimmusic.github.io"
+      url: "https://github.com/KIMMUSIC"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://kimmusic/kimmusic.github.io"
+      url: "https://github.com/KIMMUSIC"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
