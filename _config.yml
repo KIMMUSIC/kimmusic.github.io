@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "KIMMUSIC"
   avatar           : "/assets/images/joguri.jpg"
-  bio              : "아직은 초보입니다. 훗날은 어떨까요"
+  bio              : "아직은 초보입니다.\n 훗날은 어떨까요"
   location         : "South Korea"
   email            : 
   links:
@@ -273,7 +273,6 @@ defaults:
       type: posts
     values:
       layout: single
-      classes: wide
       author_profile: false
       read_time: true
       comments:  true
