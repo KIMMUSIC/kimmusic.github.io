@@ -58,7 +58,7 @@ int main(int argc, char** argv){
 ```
 #### [결과]
 
-![image](Images/semaphore.PNG)
+![image](./Images/semaphore.PNG)
 
 지적 환영합니다.
 
