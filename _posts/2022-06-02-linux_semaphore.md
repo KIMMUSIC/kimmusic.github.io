@@ -56,6 +56,11 @@ int main(int argc, char** argv){
 }
 
 ```
+#### [결과]
+
+![image info](../assets/images/semaphore.PNG)
+
+지적 환영합니다.
 
 
 
