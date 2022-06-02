@@ -3,7 +3,7 @@ title: "[Linux]test"
 excerpt: "excerpt"
 
 categories:
-    - LINUX
+    - Linux
 last_modified_at: 2022-06-02
 ---
 
