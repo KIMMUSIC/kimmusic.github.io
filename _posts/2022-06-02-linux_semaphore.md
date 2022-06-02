@@ -1,6 +1,6 @@
 ---
-title: "[Linux]test"
-excerpt: "excerpt"
+title: "[Linux]세마포어를 이용한 동기화"
+excerpt: "세마포어를 이용한 동기화"
 
 categories:
     - Linux
