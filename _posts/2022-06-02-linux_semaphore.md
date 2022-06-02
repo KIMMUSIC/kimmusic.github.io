@@ -58,7 +58,7 @@ int main(int argc, char** argv){
 ```
 #### [결과]
 
-![image](./Images/semaphore.PNG)
+![image](https://github.com/KIMMUSIC/kimmusic.github.io/blob/master/_posts/Images/semaphore.PNG?raw=true)
 
 지적 환영합니다.
 
