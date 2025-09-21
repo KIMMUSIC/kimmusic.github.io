@@ -2,10 +2,10 @@
 main:
   - title: "PS"
     url: https://kimmusic.github.io/ps
-  - title: "ALGORITHM"
-    url: /algorithm/
-  - title: "기타"
-    url: /sub/
+  - title: "일기"
+    url: /daily/
+  - title: "공부"
+    url: /study/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -17,7 +17,8 @@ docs:
         url: /boj/
       - title: "Codeforces"
         url: /codeforces/
-  - title: "ALGORITHM"
-  - title: "LINUX"
-    url: /linux/
+  - title: "일기"
+    url : /daily/
+  - title: "공부"
+    url: /study/
 

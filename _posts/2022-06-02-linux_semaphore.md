@@ -3,7 +3,7 @@ title: "[Linux]세마포어를 이용한 동기화"
 excerpt: "세마포어를 이용한 동기화"
 
 categories:
-    - Linux
+    - Study
 header:
   teaser: "/assets/images/linux.png"
 last_modified_at: 2022-06-02

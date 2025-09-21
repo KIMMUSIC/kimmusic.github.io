@@ -1,9 +1,9 @@
 ---
-title: "Linux"
+title: "Study"
 layout: category
-permalink: /linux/
+permalink: /study/
 author_profile: true
-taxonomy: Linux
+taxonomy: study
 sidebar:
   nav: "docs"
 ---
