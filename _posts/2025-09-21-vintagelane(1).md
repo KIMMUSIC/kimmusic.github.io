@@ -6,7 +6,7 @@ categories:
     - Study
 header:
   teaser: "/assets/images/aws.jpg"
-last_modified_at: 2025-02-02
+last_modified_at: 2025-09-21
 ---
 
 AWS가 제공하는 PaaS들을 사용하여 웹 서비스를 만들어 보려고 한다.<br/>
