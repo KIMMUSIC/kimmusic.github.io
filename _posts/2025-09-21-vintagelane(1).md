@@ -3,7 +3,7 @@ title: "AWS를 활용해 웹 서비스 개발하기(1)"
 excerpt: "AWS를 활용해 웹 서비스 개발하기"
 
 categories:
-    - Study
+    - study
 header:
   teaser: "/assets/images/aws.jpg"
 last_modified_at: 2025-09-21

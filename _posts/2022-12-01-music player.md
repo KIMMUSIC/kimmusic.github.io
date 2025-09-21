@@ -3,7 +3,7 @@ title: "[Electron]유튜브 Music Player"
 excerpt: "일렉트론을 사용한 유튜브 Music Player"
 
 categories:
-    - Study
+    - study
 header:
   teaser: "/assets/images/linux.png"
 last_modified_at: 2022-12-01

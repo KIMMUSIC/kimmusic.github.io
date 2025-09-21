@@ -3,9 +3,9 @@ main:
   - title: "PS"
     url: https://kimmusic.github.io/ps
   - title: "일기"
-    url: /daily/
+    url: https://kimmusic.github.io/daily
   - title: "공부"
-    url: /study/
+    url: https://kimmusic.github.io/study
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
