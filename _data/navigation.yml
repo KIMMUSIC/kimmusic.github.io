@@ -6,6 +6,8 @@ main:
     url: https://kimmusic.github.io/daily
   - title: "공부"
     url: https://kimmusic.github.io/study
+  - title: "프로젝트"
+    url: https://kimmusic.github.io/project
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -21,4 +23,6 @@ docs:
     url : /daily/
   - title: "공부"
     url: /study/
+  - title: "프로젝트"
+    url: /project/
 

@@ -24,14 +24,14 @@ name                     : "KIM MUSIC"
 description              : "An amazing website."
 url                      : "https://kimmusic.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               :  "kimmusic/kimmusic.github.io"
+repository               :  "KIMMUSIC/kimmusic.github.io"
 teaser                   : "/assets/images/teaser.png"
 logo                     :  # logo
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : "kimmusic-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -42,8 +42,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-light" # "github-light" (default), "github-dark"
+    issue_term           : "pathname" # "pathname" (default)
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -88,7 +88,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-178404683-1"
+    tracking_id          : "G-1QFD8Y4PG5"
     anonymize_ip         : # true, false (default)
 
 
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "KIMMUSIC"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "2025."
+  bio              : "2027."
   location         : "South Korea"
   email            : 
   links:

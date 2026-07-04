@@ -4,5 +4,9 @@
 
 @charset "utf-8";
 
+/* Korean web font (loaded in _includes/head/custom.html) */
+$sans-serif: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont,
+  "Roboto", "Segoe UI", "Helvetica Neue", "Malgun Gothic", Arial, sans-serif;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

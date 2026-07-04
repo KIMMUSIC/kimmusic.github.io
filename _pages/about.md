@@ -1,15 +1,21 @@
 ---
-title: "이 블로그 설명서"
+title: "About"
 permalink: /about/
 layout: single
+author_profile: true
 sidebar:
   nav: "docs"
 ---
 
-## devinlife.github.io 블로그
+## 소개
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+개발하면서 공부하고 만든 것들을 기록하는 블로그이다.
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+- **PS** — 백준(BOJ), Codeforces 등 알고리즘 문제 풀이
+- **공부** — 리눅스/컨테이너, gRPC, AWS 등 백엔드·인프라 학습 정리
+- **프로젝트** — 직접 만든 서비스와 도구 소개
+
+## 연락처
+
+- GitHub: [KIMMUSIC](https://github.com/KIMMUSIC)
+- Email: <hwa3060@naver.com>
