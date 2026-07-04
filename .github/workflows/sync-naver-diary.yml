@@ -1,0 +1,34 @@
+name: Sync Naver diary
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 09:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync RSS feed
+        run: python scripts/sync_naver_diary.py
+
+      - name: Commit and push if changed
+        run: |
+          if ! git diff --quiet _data/naver_diary.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _data/naver_diary.json
+            git commit -m "Sync Naver diary posts"
+            git push
+          else
+            echo "No new posts"
+          fi
