@@ -56,9 +56,11 @@ sidebar:
 }
 </style>
 
+<div>
 <a class="naver-card" href="https://blog.naver.com/kimmusic_" target="_blank" rel="noopener" title="네이버 블로그로 이동">
   <img src="/assets/images/profile.jpg" alt="네이버 블로그 愚痴 프로필">
   <p class="naver-card__title">愚痴</p>
   <p class="naver-card__desc">blog.naver.com/kimmusic_</p>
   <span class="naver-card__btn">네이버 블로그 방문하기 →</span>
 </a>
+</div>
